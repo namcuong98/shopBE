@@ -1,0 +1,58 @@
+[
+    {
+        "productId": "64c18f3905d1a86395d7d265",
+        "img":"https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-li74s33wm5fw87_tn",
+        "title": "Bộ 2 dây tay cách điệu, chất vải mềm mịm, phù hợp đi chơi đi biển, thời trang hot hè AO5",
+        "rate": 5,
+        "sold": 99,
+        "price": 1000,
+        "saleCode": [10,20],
+        "delivery": {
+            "address":"241 Vũ Tông Phan, Thanh Xuân, Hà Nội",
+            "feeFrom": 16000,
+            "feeTo": 22000
+        }
+    },
+    {
+        "productId": "64c18f3905d1a86395d7d266",
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-li74s33mmk24bb_tn",
+        "title": "Bộ 2 dây tay cách điệu",
+        "rate": 5,
+        "sold": 24,
+        "price": 99000,
+        "saleCode": [10,20],
+        "delivery": {
+            "address":"241 Vũ Tông Phan, Thanh Xuân, Hà Nội",
+            "feeFrom": 16000,
+            "feeTo": 22000
+        }
+    },
+    {
+        "productId": "64c18f3905d1a86395d7d267",
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-li74s3b4blxuad_tn",
+        "title": "Bộ 2 dây tay cách điệu, chất vải mềm mịm, phù hợp đi chơi đi biển, thời trang hot hè AO5",
+        "rate": 5,
+        "sold": 10,
+        "price": 95000,
+        "saleCode": [10,20],
+        "delivery": {
+            "address":"241 Vũ Tông Phan, Thanh Xuân, Hà Nội",
+            "feeFrom": 16000,
+            "feeTo": 22000
+        }
+    },
+    {
+        "productId": "64c18f3905d1a86395d7d268",
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-li74s31yp0b6bd",
+        "title": "Bộ 2 dây tay cách điệu, chất vải mềm mịm, phù hợp đi chơi đi biển, thời trang hot hè AO5",
+        "rate": 5,
+        "sold": 50,
+        "price": 93000,
+        "saleCode": [10,20],
+        "delivery": {
+            "address":"241 Vũ Tông Phan, Thanh Xuân, Hà Nội",
+            "feeFrom": 16000,
+            "feeTo": 22000
+        }
+    }
+]
